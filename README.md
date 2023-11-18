@@ -79,3 +79,5 @@ Choose the desired option to control the Formula F1 lights.
 ![F1 Light Circuit](https://github.com/HariAsher/F1-Lights-with-Raspberry-Pi-and-AI/assets/83194217/0d5e9a73-20ff-4ae1-aa2e-8668bcfa38f9)
 
 The circuit diagram illustrates the connections between the Raspberry Pi and the hardware components.
+
+You can even ask Chat GPT to help you with the circuit diagram. You can upload the images of the circuit, and ask it to review the circuit.
