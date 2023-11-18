@@ -25,8 +25,6 @@ Upon running the program, users are presented with options to commence a race, i
 
 ### Requirements
 
-![Raspberry Pi and Breadboard](https://github.com/HariAsher/F1-Lights-with-Raspberry-Pi-and-AI/assets/83194217/46352633-e8cf-47e9-a7d1-6d8182922f0d)
-
 - 1 Raspberry Pi
 - 1 Breadboard
 - 5 Red Leds
