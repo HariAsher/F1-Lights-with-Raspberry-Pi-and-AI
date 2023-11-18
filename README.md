@@ -1,9 +1,9 @@
 # F1-Lights-with-Raspberry-Pi-and-AI
-
-
-![F1 Lights Demo](link-to-demo-gif-or-image.gif)
+![F1 Lights](https://github.com/HariAsher/F1-Lights-with-Raspberry-Pi-and-AI/assets/83194217/a57d67fa-ea6a-40b7-bc3a-584c3b11ca36)
 
 ## Overview
+
+![Raspberry Pi and Breadboard](https://github.com/HariAsher/F1-Lights-with-Raspberry-Pi-and-AI/assets/83194217/46352633-e8cf-47e9-a7d1-6d8182922f0d)
 
 This project showcases an embedded system powered by a Raspberry Pi 4B, designed to control Formula F1-style lights with the assistance of AI. The hardware setup includes five LEDs, a buzzer, jumper wires, and resistors.
 
@@ -27,12 +27,12 @@ Upon running the program, users are presented with options to commence a race, i
 
 ### Requirements
 
-1 Raspberry Pi
-1 Breadboard
-5 Red Leds
-5 220 ohm Resistors
-1 Buzzer
-Several Jumper Wires
+- 1 Raspberry Pi
+- 1 Breadboard
+- 5 Red Leds
+- 5 220 ohm Resistors
+- 1 Buzzer
+- Several Jumper Wires
 
 ### Chat GPT Prompt
 
@@ -77,4 +77,7 @@ To quit the program, press 'q.'
 Choose the desired option to control the Formula F1 lights.
 
 ## Circuit Diagram
+
+![F1 Light Circuit](https://github.com/HariAsher/F1-Lights-with-Raspberry-Pi-and-AI/assets/83194217/0d5e9a73-20ff-4ae1-aa2e-8668bcfa38f9)
+
 The circuit diagram illustrates the connections between the Raspberry Pi and the hardware components.
