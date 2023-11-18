@@ -3,8 +3,6 @@
 
 ## Overview
 
-![Raspberry Pi and Breadboard](https://github.com/HariAsher/F1-Lights-with-Raspberry-Pi-and-AI/assets/83194217/46352633-e8cf-47e9-a7d1-6d8182922f0d)
-
 This project showcases an embedded system powered by a Raspberry Pi 4B, designed to control Formula F1-style lights with the assistance of AI. The hardware setup includes five LEDs, a buzzer, jumper wires, and resistors.
 
 Chat GPT 4 played a crucial role in this project by generating the code and crafting the circuit diagram.
@@ -26,6 +24,8 @@ Upon running the program, users are presented with options to commence a race, i
 ## Getting Started
 
 ### Requirements
+
+![Raspberry Pi and Breadboard](https://github.com/HariAsher/F1-Lights-with-Raspberry-Pi-and-AI/assets/83194217/46352633-e8cf-47e9-a7d1-6d8182922f0d)
 
 - 1 Raspberry Pi
 - 1 Breadboard
